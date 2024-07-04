@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm suchana</h1>
 <h3 align="center">A passionate backend developer from India</h3>
-<img alt="coding" width=400 align="left" src="https://images.app.goo.gl/LnHHJx1TAXZ3cW7S6">
+<img alt="coding" width="400" align="right" src="https://media1.tenor.com/m/WkgpyPpxpDUAAAAC/work-internet.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=suchana06&label=Profile%20views&color=0e75b6&style=flat" alt="suchana06" /> </p>
 
 - 🌱 I’m currently learning **Java frameworks, AI/ML**
