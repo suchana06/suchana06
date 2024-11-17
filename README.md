@@ -3,8 +3,6 @@
 <img alt="coding" width="380" align="right" src="https://media1.tenor.com/m/WkgpyPpxpDUAAAAC/work-internet.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=suchana06&label=Profile%20views&color=0e75b6&style=flat" alt="suchana06" /> </p>
 
-- 🔭 I’m currently working on [contact-manager](https://github.com/suchana06/contact-manager)
-
 - 🌱 I’m currently learning **SpringBoot**
 
 - 💬 Ask me about **Node.js, Spring and SpringBoot**
